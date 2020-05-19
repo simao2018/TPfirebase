@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "597311361606",
+    "firebase_url": "https://tutorialfirebase-a15b9.firebaseio.com",
+    "project_id": "tutorialfirebase-a15b9",
+    "storage_bucket": "tutorialfirebase-a15b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597311361606:android:71f83f0da24f176190f047",
+        "android_client_info": {
+          "package_name": "com.example.firebasedatabaseandroidtuto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597311361606-g5rk33isj6uu5u15a8lh65040phd7udj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfuxH8BaCnrpOOUJc9EHuVRxlhE-MtSJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597311361606-g5rk33isj6uu5u15a8lh65040phd7udj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
